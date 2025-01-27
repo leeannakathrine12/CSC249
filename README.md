@@ -1,5 +1,5 @@
 # CSC249
-Data Structures &amp; Algorithms
+Data Structures &amp; Algorithms\n
 Leeanna Kathrine Coleman
 I am a Computer Science student at FTCC who is looking to transfer to UNC Charlotte after this semster.
 
